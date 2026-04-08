@@ -1,7 +1,7 @@
 <!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kingsley%20Agbasimere&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtMl69jJ3KPA/profile-displaybackgroundimage-shrink_350_1400/B4EZy_WhRjIUAY-/0/1772736879513?e=1777507200&v=beta&t=XlHxvBnjZpEQkw9j9P5_i30gkwVXojIesSglf0ZwiGA" />
 </p>
 
 <!-- 👋 INTRO -->
@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+Engineer;Automation+Systems+Builder;Data+Scientist;Founder+of+Briv;I+Build+Systems+That+Make+Money" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Software+Engineer;Automation+Systems+Builder;Founder+of+Briv;I+Build+Scalable+Systems" />
 </p>
 
 <p align="center">
@@ -39,12 +39,13 @@
 ```yaml
 name: Kingsley Agbasimere
 location: Nigeria 🇳🇬
-role: AI/Software Engineer | Automating Systems
+role: Software Engineer | Automating Systems 
 
 focus:
+  - Scalable Web Applications
   - AI Agents for Businesses
   - Automation Systems (cost saving + revenue growth)
-  - Scalable Web Applications
+ 
 
 currently_building:
   - Briv (Automation Agency)
@@ -58,10 +59,10 @@ mission:
 
 ## 🚀 What I Do (Value Proposition)
 
-* 🤖 Build **AI agents** that automate business workflows
-* ⚙️ Replace repetitive tasks with **intelligent systems**
-* 📈 Help businesses **save costs & increase revenue**
-* 🌐 Develop **scalable web platforms for startups**
+*  Build **AI agents** that automate business workflows
+*  Replace repetitive tasks with **intelligent systems**
+*  Help businesses **save costs & increase revenue**
+*  Develop **scalable web platforms for startups**
 
 ---
 
@@ -71,46 +72,21 @@ mission:
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,django,postgres,supabase,git,linux" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-## ⚡ Current Focus
-
-* 🔥 Building & scaling **Briv Automation Systems**
-* 🤖 Creating real-world **AI agents for businesses**
-* 🧠 Mastering **advanced AI + system design**
-* 📢 Growing my **personal brand**
-
----
 
 ## 💼 Featured Projects
 
-* 🤖 AI Chatbot for Real Estate (Lead Capture System)
-* 📊 Business Performance Prediction Model
-* 🧠 Heart Disease Prediction ML System
-* 🌐 Automation Systems for SMEs
+*  AI Chatbot for Real Estate (Lead Capture System)
+*  Business Performance Prediction Model
+*  Heart Disease Prediction ML System
+*  Automation Systems for SMEs
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agbasimere&theme=tokyo-night" />
 </p>
 
 ---
