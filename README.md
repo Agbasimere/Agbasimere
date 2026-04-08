@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀 Building AI-powered systems that help businesses save costs & scale faster
+  🚀 Building Systems that help businesses save costs & scale faster
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ```yaml
 name: Kingsley Agbasimere
 location: Nigeria 🇳🇬
-role: AI Engineer | Automation Builder
+role: AI/Software Engineer | Automating Systems
 
 focus:
   - AI Agents for Businesses
