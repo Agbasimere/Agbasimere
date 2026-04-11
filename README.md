@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Software+Engineer;Systems+Design;Automation+Systems+Builder;Founder+of+Briv;I+Build+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Software+Engineer;Devops;Founder+of+Briv;I+Build+Scalable+Systems" />
 </p>
 
 <p align="center">
