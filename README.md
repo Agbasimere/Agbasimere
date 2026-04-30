@@ -1,7 +1,7 @@
 <!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtMl69jJ3KPA/profile-displaybackgroundimage-shrink_350_1400/B4EZy_WhRjIUAY-/0/1772736879513?e=1777507200&v=beta&t=XlHxvBnjZpEQkw9j9P5_i30gkwVXojIesSglf0ZwiGA" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtMl69jJ3KPA/profile-displaybackgroundimage-shrink_350_1400/B4EZy_WhRjIUAY-/0/1772736879513?e=1777507200&v=beta&t=XlHxvBnjZpEQkw9j9P5_i30gkwVXojIesSglf0ZwiGA"/>
 </p>
 
 <!-- 👋 INTRO -->
