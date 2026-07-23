@@ -1,34 +1,41 @@
 <!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtMl69jJ3KPA/profile-displaybackgroundimage-shrink_350_1400/B4EZy_WhRjIUAY-/0/1772736879513?e=1777507200&v=beta&t=XlHxvBnjZpEQkw9j9P5_i30gkwVXojIesSglf0ZwiGA"/>
+  <!-- Replace with a GitHub-hosted image instead of a LinkedIn CDN image -->
+  <img src="https://raw.githubusercontent.com/Agbasimere/Agbasimere/main/assets/banner.png" alt="Kingsley Banner" />
 </p>
 
 <!-- 👋 INTRO -->
 
-<h1 align="center">Hi 👋, I'm Kingsley</h1>
+<h1 align="center">Hi 👋, I'm Kingsley Agbasimere</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Software+Engineer;Devops;Founder+of+Briv;I+Build+Scalable+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Software+Engineer;DevOps+Engineer;Founder+of+Briv;Building+Scalable+Systems;AI+Automation+Specialist" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  🚀 Building Systems that help businesses save costs & scale faster
+  🚀 Building intelligent systems that help businesses reduce costs and scale faster.
 </p>
 
 ---
 
-<!-- 🔗 SOCIALS -->
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://kingsleybuikem.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+  <a href="https://kingsleybuikem.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -38,55 +45,73 @@
 
 ```yaml
 name: Kingsley Agbasimere
-location: Nigeria 🇳🇬
-role: Software Engineer | Automating Systems 
 
-focus:
+location: Nigeria 🇳🇬
+
+role: Software Engineer
+
+specialties:
+  - AI Agents
+  - Backend Development
+  - Automation Systems
   - Scalable Web Applications
-  - AI Agents for Businesses
-  - Automation Systems (cost saving + revenue growth)
- 
 
 currently_building:
   - Briv (Automation Agency)
-  - AI-powered business tools
+  - AI-powered Business Tools
 
 mission:
-  "Help businesses replace manual work with intelligent systems"
+  Help businesses replace manual work with intelligent systems.
 ```
 
 ---
 
-## 🚀 What I Do (Value Proposition)
+## 🚀 What I Do
 
-*  Build **AI agents** that automate business workflows
-*  Replace repetitive tasks with **intelligent systems**
-*  Help businesses **save costs & increase revenue**
-*  Develop **scalable web platforms for startups**
+- 🤖 Build **AI agents** that automate business workflows.
+- ⚡ Replace repetitive tasks with **intelligent automation**.
+- 💰 Help businesses **reduce costs and increase revenue**.
+- 🌍 Develop **scalable web applications** for startups and businesses.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,django,postgres,supabase,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,fastapi,django,postgres,supabase,docker,git,linux" alt="Tech Stack"/>
 </p>
-
-
-
-## 💼 Featured Projects
-
-*  AI Chatbot for Real Estate (Lead Capture System)
-*  Business Performance Prediction Model
-*  Heart Disease Prediction ML System
-*  Automation Systems for SMEs
 
 ---
 
-## 📈 Contribution Graph
+## 💼 Featured Projects
+
+### 🤖 AI Chatbot for Real Estate
+An AI-powered lead capture and qualification system for real estate businesses.
+
+### 📊 Business Performance Prediction Model
+Machine learning model for forecasting business performance and growth.
+
+### ❤️ Heart Disease Prediction System
+Predictive healthcare application built with Python and machine learning.
+
+### ⚙️ Automation Systems for SMEs
+Custom workflow automation solutions that reduce manual work and improve efficiency.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agbasimere&theme=tokyo-night" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Agbasimere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbasimere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agbasimere&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -94,7 +119,7 @@ mission:
 ## 💭 Philosophy
 
 <p align="center">
-  <i>"Don't just build apps. Build systems that solve money problems."</i>
+  <i>"Don't just build apps. Build systems that solve real business problems."</i>
 </p>
 
 ---
@@ -102,11 +127,11 @@ mission:
 ## 📬 Let's Work Together
 
 <p align="center">
-  💡 If you're a business owner or startup looking to automate and scale  
+  💡 Have an idea to automate your business or build a scalable product?
 </p>
 
 <p align="center">
-  👉 <b>Let's build something powerful together</b>
+  <b>Let's build something amazing together.</b>
 </p>
 
 ---
@@ -114,5 +139,5 @@ mission:
 <!-- 🔥 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="Footer"/>
 </p>
