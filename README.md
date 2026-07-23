@@ -101,8 +101,8 @@ Custom workflow automation solutions that reduce manual work and improve efficie
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dtriple-p&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dtriple-p&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dtriple-p&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dtriple-p&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
