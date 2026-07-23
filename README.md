@@ -101,8 +101,8 @@ Custom workflow automation solutions that reduce manual work and improve efficie
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Agbasimere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbasimere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dtriple-p&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dtriple-p&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Custom workflow automation solutions that reduce manual work and improve efficie
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agbasimere&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dtriple-p&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
