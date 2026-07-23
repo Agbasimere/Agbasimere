@@ -1,8 +1,7 @@
 <!-- 🔥 HERO BANNER -->
 
 <p align="center">
-  <!-- Replace with a GitHub-hosted image instead of a LinkedIn CDN image -->
-  <img src="https://raw.githubusercontent.com/Agbasimere/Agbasimere/main/assets/banner.png" alt="Kingsley Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Kingsley%20Agbasimere&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20|%20AI%20Automation%20|%20Founder%20of%20Briv&descAlignY=60" />
 </p>
 
 <!-- 👋 INTRO -->
